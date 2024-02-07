@@ -1,6 +1,14 @@
 # ProductManagement
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+The covered aspects of the project include:
+- Components.
+- Template, Interpolation, and Directives.
+- Data Binding & Pipes.
+- Nested Components.
+- Services & DI.
+- Routing Basics.
+- Modules.
 
 ## Development server
 
